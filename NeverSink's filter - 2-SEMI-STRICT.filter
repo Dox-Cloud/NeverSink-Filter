@@ -1,3 +1,10 @@
+# --- REGRA PERSONALIZADA: MOSTRAR SILVER FLASK ---
+Show
+    BaseType == "Silver Flask"
+    SetFontSize 40
+    SetBorderColor 255 255 255 255
+    SetBackgroundColor 0 100 200 240
+# ------------------------------------------------
 #===============================================================================================================
 # NeverSink's Indepth Loot Filter - for Path of Exile
 #===============================================================================================================
